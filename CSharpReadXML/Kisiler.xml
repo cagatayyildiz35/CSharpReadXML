@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sinif>
+  <kisi>
+    <ad>Çağatay</ad>
+    <soyad>Yildiz</soyad>
+    <sehir>İzmir</sehir>
+  </kisi>
+  <kisi>
+    <ad>Ayşe</ad>
+    <soyad>Kara</soyad>
+    <sehir>İstanbul</sehir>
+  </kisi>
+  <kisi>
+    <ad>Ivır</ad>
+    <soyad>Zıvır</soyad>
+    <sehir>İzmir</sehir>
+  </kisi>
+
+</sinif>
