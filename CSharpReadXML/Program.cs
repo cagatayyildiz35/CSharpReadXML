@@ -14,7 +14,7 @@ namespace CSharpReadXML
         {
             //xml den çektiğin kişileri bir kişi listesine ata!
 
-            XDocument doc = XDocument.Load("Kisiler.xml");
+            XDocument doc = XDocument.Load("Calisanlar.xml");
             var authors = doc.Descendants("kisi");
 
             List<Kisi> kisiler = new List<Kisi>();
